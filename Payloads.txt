@@ -1,0 +1,6 @@
+Payload all the things
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+Pentest Monkey
+Reverse Shell Cheat Sheet.
+https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet

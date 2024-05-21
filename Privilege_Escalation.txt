@@ -1,0 +1,8 @@
+LinPEAS
+https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS
+
+LinENUM
+https://github.com/rebootuser/LinEnum
+
+Linux Priv Check
+https://github.com/sleventyeleven/linuxprivchecker
